@@ -1,5 +1,0 @@
-name = "blog-starter-app"
-compatibility_date = "2024-03-13"
-compatibility_flags = ["nodejs_compat"]
-main = "./src/worker/index.js"
-assets = [{ directory = "./public", binding = "ASSETS" }]
